@@ -13,11 +13,11 @@ The essence of the project is to validate the use of background images and linea
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/6d97b3a72c2abcda7f449b5465317c6e3a4ca775/index.html)
+[Live Demo Link](https://rawcdn.githack.com/3rkeen/apple-clone/21dacb29178670232f38f16f2db5817797e4f8eb/index.html)
 
 ## Getting Started
 
-Click once on the [Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Times-Clone/6d97b3a72c2abcda7f449b5465317c6e3a4ca775/index.html)
+Click once on the [Live Demo Link](https://rawcdn.githack.com/3rkeen/apple-clone/21dacb29178670232f38f16f2db5817797e4f8eb/index.html)
 
 ## Author
 
@@ -31,7 +31,7 @@ Click once on the [Live Demo Link](https://rawcdn.githack.com/3rkeen/New-York-Ti
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/3rkeen/New-York-Times-Clone/issues).
+Feel free to check the [issues page](https://github.com/3rkeen/apple-clone/issues).
 
 ## Show your support
 
